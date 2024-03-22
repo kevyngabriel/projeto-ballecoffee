@@ -31,7 +31,7 @@ ul {
 
 nav {
   max-width: 1120px;
-  margin: auto;
+  margin: 0rem 13rem;
   padding: 1.5rem 0em;
 
   display: flex;
