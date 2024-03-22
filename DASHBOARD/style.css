@@ -70,6 +70,7 @@ main {
 
 .principal {
   background: #181012;
+  height: 60vh;
 }
 
 .hero {
@@ -127,12 +128,62 @@ hr {
 .hero-imagem-container {
   column-count: 4;
   column-gap: 1rem;
-  margin: -1rem;
+}
+
+figure {
+  margin-bottom: 0.5rem;
+}
+
+.linha01 {
+  transform: translate(0px, -30px);
+}
+
+.linha02 {
+  transform: translate(0px, -30px);
+}
+
+#img03 {
+  transform: translate(0rem, 8rem);
+}
+
+#img04 {
+  transform: translate(0rem, -0.9rem);
+}
+
+#img05 {
+  transform: translate(0rem, -0.9rem);
+}
+
+#img06 {
+  transform: translate(0rem, 1.6rem);
+}
+
+#img07 {
+  transform: translate(0rem, -1rem);
+}
+
+#img08 {
+  transform: translate(0rem, -1rem);
+}
+
+#img09 {
+  transform: translate(0rem, 1.5rem);
+}
+
+#img10 {
+  transform: translate(0rem, -1rem);
+}
+
+#img11 {
+  transform: translate(0rem, -1rem);
+}
+
+#img12 {
+  transform: translate(0rem, 1.5rem);
 }
 
 .hero-imagem-container > figure > image {
   width: 100%;
-  border-radius: 0.5rem;
 }
 
 .botao-container {
