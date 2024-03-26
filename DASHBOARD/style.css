@@ -30,8 +30,8 @@ ul {
 /* ------------------------------------------*/
 
 nav {
+  margin: 0 auto;
   max-width: 1120px;
-  margin: 0rem 13rem;
   padding: 1.5rem 0em;
 
   display: flex;
@@ -74,11 +74,11 @@ main {
 }
 
 .hero {
+  margin: 0 auto;
   max-width: 1120px;
   height: 60vh;
   gap: 6rem;
 
-  margin: 0rem 13rem;
   overflow: clip;
 
   display: flex;
@@ -188,9 +188,8 @@ figure {
 
 .botao-container {
   width: 100%;
+  margin: 0 auto;
   max-width: 1120px;
-
-  margin: auto;
   transform: translate(0, -50%);
 }
 
@@ -205,9 +204,9 @@ button {
 .receitas {
   display: flex;
   flex-direction: column;
+  margin: 0 auto;
   max-width: 1120px;
   padding: 5rem 0rem;
-  margin: 0rem 13rem;
 }
 
 .receitas-header {
