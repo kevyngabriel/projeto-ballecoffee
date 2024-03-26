@@ -135,43 +135,43 @@ figure {
 }
 
 .linha01 {
-  transform: translate(0rem, -1rem);
+  transform: translate(0rem, 3rem);
 }
 
 .linha02 {
-  transform: translate(0rem, 1rem);
+  transform: translate(0rem, 0rem);
 }
 
 #img03 {
-  transform: translate(0rem, 5rem);
-}
-
-#img04 {
-  transform: translate(0rem, -0.9rem);
-}
-
-#img05 {
-  transform: translate(0rem, -2rem);
-}
-
-#img06 {
-  transform: translate(0rem, 4.2rem);
-}
-
-#img07 {
-  transform: translate(0rem, -1rem);
-}
-
-#img08 {
   transform: translate(0rem, 1rem);
 }
 
+#img04 {
+  transform: translate(0rem, 3.2rem);
+}
+
+#img05 {
+  transform: translate(0rem, 0rem);
+}
+
+#img06 {
+  transform: translate(0rem, 0.2rem);
+}
+
+#img07 {
+  transform: translate(0rem, 3rem);
+}
+
+#img08 {
+  transform: translate(0rem, 3rem);
+}
+
 #img09 {
-  transform: translate(0rem, 4.5rem);
+  transform: translate(0rem, 0.5rem);
 }
 
 #img10 {
-  transform: translate(0rem, -1rem);
+  transform: translate(0rem, 3rem);
 }
 
 #img11 {
@@ -179,7 +179,7 @@ figure {
 }
 
 #img12 {
-  transform: translate(0rem, 4.3rem);
+  transform: translate(0rem, 0.3rem);
 }
 
 .hero-imagem-container > figure > image {
@@ -190,6 +190,7 @@ figure {
   width: 100%;
   margin: 0 auto;
   max-width: 1120px;
+  height: 10vh;
   transform: translate(0, -50%);
 }
 
