@@ -44,14 +44,14 @@ nav > span#logo-menu {
   display: none;
 }
 
-menu > span.logo {
+nav > menu > span.logo {
   font-family: teko;
   font-size: 2rem;
   font-weight: 600;
   text-transform: uppercase;
 }
 
-menu > span.logo > a {
+nav > menu > span.logo > a {
   text-decoration: none;
   color: #ffffff;
 }
