@@ -105,6 +105,21 @@
   .hero-imagem-container > figure > image {
     width: 100%;
   }
+
+  .botao-container {
+    max-width: 768px;
+    height: 5vh;
+  }
+  .receitas {
+    max-width: 768px;
+    margin: auto;
+  }
+  .receitas-header {
+    align-items: center;
+  }
+  .receitas-card-container {
+    justify-content: center;
+  }
 }
 
 @media screen and (min-height: 700px) and (min-width: 1920px) {
