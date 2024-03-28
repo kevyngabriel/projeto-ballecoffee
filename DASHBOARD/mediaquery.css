@@ -1,26 +1,40 @@
 @charset "UTF-8";
 
 @media screen and (max-width: 600px) {
+  nav > span#logo-menu {
+    font-size: 2rem;
+    padding: 0.5rem;
+  }
+  menu#itens {
+    height: 25vh;
+  }
+
   .principal {
-    height: 55vh;
+    height: 75vh;
     background: url(assets/background-coffee-02.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
   }
+
   .hero {
     margin: auto;
     max-width: 600px;
-    height: 65vh;
+    height: 75vh;
   }
   .hero-conteudo {
     max-width: 580px;
-    height: 50vh;
+    height: 42.5vh;
     align-items: center;
     text-align: center;
   }
   .hero-imagem-container {
     display: none;
+  }
+
+  .botao-container {
+    height: 12vh;
+    width: 90vw;
   }
 
   .receitas {
